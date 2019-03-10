@@ -2,7 +2,6 @@
 echo Selamat datang jones,siapa nick lo? #tulisan keluar
 read nick #membaca yang ditulis
 echo "hahaha jones :v"
-echo "            ====================================================================="
 echo "                       _______   _     _   _______  ____      _______ "
 sleep 0.03 
 echo "                      |  _____| | |   | | |  _____||__  |    |_____  |"
