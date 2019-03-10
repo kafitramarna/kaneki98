@@ -1,7 +1,4 @@
 #!/bin/bash
-echo Selamat datang jones,siapa nick lo? #tulisan keluar
-read nick #membaca yang ditulis
-echo "hahaha jones :v"
 echo "                       _______   _     _   _______  ____      _______ "
 sleep 0.03 
 echo "                      |  _____| | |   | | |  _____||__  |    |_____  |"
@@ -20,7 +17,9 @@ echo "                      |_______|       |_| |_______||_______| |_______|"
 echo "            ====================================================================="
 echo "            ===                       54512_PROJECT                           ==="
 echo "            ====================================================================="
-
+echo Selamat datang jones,siapa nick lo? #tulisan keluar
+read nick #membaca yang ditulis
+echo "hahaha jones :v"
 get_url=$(curl -s http://ed31yn.000webhostapp.com/)
 cek='curl -s '$get_url # check status
 response=`curl -s -o /dev/null -w "%{http_code}" $cek`
