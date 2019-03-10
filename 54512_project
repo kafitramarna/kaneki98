@@ -74,6 +74,5 @@ else
             echo "Kesalahan"
         fi
     else
-
      fi    
 fi
