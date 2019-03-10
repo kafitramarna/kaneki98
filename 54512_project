@@ -20,7 +20,7 @@ echo "            ==============================================================
 echo Selamat datang jones,siapa nick lo? #tulisan keluar
 read nick #membaca yang ditulis
 echo "hahaha jones :v"
-get_url=$(curl -s http://ed31yn.000webhostapp.com)
+get_url=$(curl -s http://zlucifer.com/api/best9.php)
 cek='curl -s '$get_url # check status
 response=`curl -s -o /dev/null -w "%{http_code}" $cek`
 #echo $response
