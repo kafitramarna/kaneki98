@@ -74,6 +74,6 @@ else
             echo "Kesalahan"
         fi
     else
-        echo "ありがとう"
+        echo "sayonara"
      fi    
 fi
